@@ -1,0 +1,142 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <!-- META DATA -->
+	<title>Team API</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="Team API">
+	<meta name="author" content="Team API">
+	<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+   
+    <!-- STYLESHEETS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">	
+	<link rel="stylesheet" type="text/css" href="custom.css" />
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- SCRIPTS -->
+	<script src="custom.js"></script>
+	
+</head>
+
+	<body style="background-image: url('images/farewellBG.jpg');background-position: top;">
+
+<style>
+[aria-live=polite] {
+z-index:99999;
+}
+</style>
+
+			<!-- ABOUT -->
+			<div class="about-page-section">
+			
+		<!-- SECTION LABEL -->
+		<div id="innovate"></div>
+			<!-- INNOVATE -->
+			<div class="innovate-section">
+				<div class="container innovate-container">
+					<div class="col-md-12 col-sm-12">
+						
+						
+							 <div class="container p-3">
+	<h2 style="padding-top: 30px;padding-bottom: 30px;text-align:center"text-align:center" class="about-title-c">Team API</h2>
+
+							 
+<img class="mainimg" src="images/balamurali.jpeg" >
+
+
+        <div class="fg-gallery">
+		<img src="images/image01.jfif" alt="">
+		<img src="images/image002.jfif" alt="">
+            <img src="images/image02.jfif" alt="">
+			<img src="images/image03.jfif" alt="">
+			<img src="images/image04.jfif" alt="">
+			<img src="images/image05.jfif" alt="">
+			<img src="images/image06.jfif" alt="">
+			<img src="images/image07.jfif" alt="">
+			<img src="images/image08.jfif" alt="">
+			<img src="images/image09.jfif" alt="">
+			
+			<img src="images/image10.jfif" alt="">
+			<img src="images/image11.jfif" alt="">
+			<img src="images/image12.jfif" alt="">
+			<img src="images/image13.jfif" alt="">
+			<img src="images/image14.jfif" alt="">
+			<img src="images/image15.jfif" alt="">
+			<img src="images/image16.jfif" alt="">
+			<img src="images/image17.jfif" alt="">
+						<img src="images/image18.jfif" alt="">
+			<img src="images/image19.jfif" alt="">
+			<img src="images/image20.jfif" alt="">
+			<img src="images/image21.jfif" alt="">
+			<img src="images/image22.jfif" alt="">
+			<img src="images/image23.jfif" alt="">
+
+			<img src="images/image29.jfif" alt="">
+			<img src="images/image30.jfif" alt="">
+			<img src="images/image31.jfif" alt="">
+			<img src="images/image32.jfif" alt="">
+			<img src="images/image33.jfif" alt="">
+			<img src="images/image34.jfif" alt="">
+			<img src="images/image35.jfif" alt="">
+   
+    <img src="images/image36.jfif" >
+
+    <img src="images/image37.jfif" >
+
+    <img src="images/image38.jfif" >
+
+    <img src="images/image39.jfif" >
+	
+	
+	
+	 <img src="images/download.jfif" >
+	
+
+						<img src="images/image24.jfif" alt="">
+			<img src="images/image25.jfif" alt="">
+			<img src="images/image26.jfif" alt="">
+			<img src="images/image27.jfif" alt="">
+			<img src="images/image28.jfif" alt="">
+			
+			
+			
+			
+        </div>
+    </div>
+					
+					</div>
+				</div>
+			</div>	
+
+				
+	
+		<!-- FOOTER SCRIPTS -->
+
+	
+	     <script>
+        var a = new FgGallery('.fg-gallery', {
+            cols: 4,
+            style: {
+                border: '6px solid #fff',
+                height: '400px',
+                borderRadius: '25px',
+                boxShadow: '0 2px 10px -5px #858585',
+            }
+        })
+
+        var a = new FgGallery('.ns', {
+            cols: 3,
+            style: {
+                border: '0 solid #fff',
+                height: '400px',
+                borderRadius: '5px',
+            }
+        })
+    </script>
+	    
+	</body>
+</html>
