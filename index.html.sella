@@ -17,7 +17,7 @@
       <!-- SCRIPTS -->
       <script src="custom.js"></script>
    </head>
-   <body style="background-image: url('images/4391662.jpg');background-position: top;">
+   <body style="background-image: url('images/farewellBG.jpg');background-position: top;">
       <style>
          [aria-live=polite] {
          z-index:99999;
@@ -32,7 +32,7 @@
          <div class="container innovate-container">
             <div class="col-md-12 col-sm-12">
                <div class="container p-3">
-                  <h2 style="padding-top: 30px;padding-bottom: 30px;text-align:center"text-align:center" class="about-title-c">꧁𓊈𒆜🆃🅴🅰🅼 🅲🅸🆃🅸🅲🅾🅽🅽🅴🅲🆃 🅰🅿🅸𒆜𓊉꧂</h2>
+                  <h2 style="padding-top: 30px;padding-bottom: 30px;text-align:center"text-align:center" class="about-title-c">Team API</h2>
                   <img class="mainimg" src="images/balamurali.jpeg" >
                   <div class="fg-gallery">
                      <img src="images/image01.jfif" alt="">
@@ -70,7 +70,7 @@
                      <img src="images/image37.jfif" >
                      <img src="images/image38.jfif" >
                      <img src="images/image39.jfif" >
-                     <!--<img src="images/download.jfif" >-->
+                     <img src="images/download.jfif" >
                      <img src="images/image24.jfif" alt="">
                      <img src="images/image25.jfif" alt="">
                      <img src="images/image26.jfif" alt="">
@@ -86,7 +86,7 @@
          var a = new FgGallery('.fg-gallery', {
              cols: 4,
              style: {
-                 border: '3px solid #fff',
+                 border: '6px solid #fff',
                  height: '400px',
                  borderRadius: '25px',
                  boxShadow: '0 2px 10px -5px #858585',
